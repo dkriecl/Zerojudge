@@ -1,0 +1,1 @@
+print(abs((int(input())-15)%24))
